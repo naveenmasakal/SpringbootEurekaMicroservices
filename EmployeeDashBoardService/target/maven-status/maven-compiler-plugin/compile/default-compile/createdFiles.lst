@@ -1,0 +1,4 @@
+com/example/EmployeeDashBoardService/controller/EmployeeServiceProxy.class
+com/example/EmployeeDashBoardService/controller/FeignEmployeeInfoController.class
+com/example/EmployeeDashBoardService/domain/model/EmployeeInfo.class
+com/example/EmployeeDashBoardService/EmployeeDashBoardService.class
