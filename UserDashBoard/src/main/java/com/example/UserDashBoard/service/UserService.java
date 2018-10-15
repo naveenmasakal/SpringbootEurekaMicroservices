@@ -19,7 +19,7 @@ public class UserService {
 	}
 	
 	public UserRequest getUserById(String id) {
-		return userDAO.getUserById(id);
+		return userDAO.getUserById1(id);
 	}
 
 	public UserRequest addUser(UserRequest userDetails) {
